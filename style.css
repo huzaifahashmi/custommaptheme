@@ -1,0 +1,26 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  height: 100vh;
+  background: rgb(45, 177, 90);
+  background: linear-gradient(
+    90deg,
+    rgba(45, 177, 90, 1) 50%,
+    rgba(84, 255, 0, 1) 100%
+  );
+  background-repeat: no-repeat;
+}
+
+.main {
+  margin-left: 15%;
+  position: absolute;
+  margin-top: 5%;
+  height: 500px;
+  width: 900px;
+  border-radius: 20px;
+  box-shadow: rgba(17, 17, 26, 0.1) 0px 4px 16px,
+    rgba(17, 17, 26, 0.1) 0px 8px 24px, rgba(17, 17, 26, 0.1) 0px 16px 56px;
+}
