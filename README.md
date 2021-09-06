@@ -2,7 +2,7 @@
 
 Working with,
 * Google maps API
-* Google Cloud
+* Google Cloud Platform
 
 # URL:
 
